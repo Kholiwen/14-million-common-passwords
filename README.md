@@ -1,1 +1,2 @@
-# 14-million-common-passwords
+# 14-million-commonpasswords
+## This is list of approximately 15 million commonly used (pwned) passwords in csv file format. This file has undergo successful import test to PostgreSQL DB using pgAdmin.
